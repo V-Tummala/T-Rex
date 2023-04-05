@@ -1,2 +1,2 @@
-# Background Colour Changer
-Changes background colour with arrow keys
+# T-Rex
+Chrome's T-Rex game
